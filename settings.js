@@ -20,23 +20,23 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'BIXBY-MD USER BOT'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.premium = ['94774309804']
+global.ownernomer = '94774309804'
+global.ownername = '𝙀.𝘿.𝙎.𝙈𝙤𝙨𝙝𝙞𝙩𝙝𝙖💘'
+global.botname = '☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲 ʷᵃBOT '
+global.footer = ' ☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲 ʙᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
+global.ig = 'https://youtube.com/channel/UCtKT-h1UkEJ5sDJ3Std270g'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'DARK ALPHA'
+global.mywagroup = 'https://chat.whatsapp.com/BhHvH6Dl2Yg1WPU0F5etKr'
+global.packname = '☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲'
+global.author = '☯Dαɾƙ ꪜ𝔖𝔞𝔫𝔲'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    admin: '🥲This Feature Is Only For Admin!🥹',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
@@ -44,7 +44,7 @@ global.mess = {
     bot: 'This Feature Is Only For Bot',
     wait: 'Please Wait...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 24 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
